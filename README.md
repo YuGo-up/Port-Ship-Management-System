@@ -2,7 +2,7 @@
 A small system developed by C++ and QT in college classes
 
 # 开发语言：
-C++，xml，QT
+C++,QT
 # 工具：
 后端数据库：Mysql8.0.27 ,Navicat , MysqWorklberch
 前端交互：Mysqlodbc , qt6.6.1 , QT-Ceator。
